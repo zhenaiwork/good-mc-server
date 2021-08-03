@@ -88,11 +88,11 @@ Linux系统这里就有的复杂了，第一Linux本身指某个或者某个公�
 
 说到插件就不得不提到MCDR，因为所有的原版端服务器的插件都是用的MCDR。关于MCDR的安装这里就不说了，
 
-这里只是推荐几个MCDR的插件：1 here https://github.com/TISUnion/Here（广播自己的坐标）2 qb https://github.com/TISUnion/QuickBackupM（备份、回档）
+这里只是推荐几个MCDR的插件：1 [here](https://github.com/TISUnion/Here)（广播自己的坐标）2 [qb](https://github.com/TISUnion/QuickBackupM)（备份、回档）
 
-还要其它的插件》》https://github.com/MCDReforged/PluginCatalogue
+[还要其它的插件](https://github.com/MCDReforged/PluginCatalogue)
 
-MCDR》》https://github.com/Fallen-Breath/MCDReforged
+[MCDR](https://github.com/Fallen-Breath/MCDReforged)
 
 ## 5备份和运维
 
